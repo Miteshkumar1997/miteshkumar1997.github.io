@@ -1,0 +1,8 @@
+<section id="gallery">
+  <h2>Gallery / गैलरी</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="img1.jpg" alt="Photo 1" style="width: 250px; border-radius: 10px;" />
+    <img src="img2.jpg" alt="Photo 2" style="width: 250px; border-radius: 10px;" />
+    <img src="img3.jpg" alt="Photo 3" style="width: 250px; border-radius: 10px;" />
+  </div>
+</section>
